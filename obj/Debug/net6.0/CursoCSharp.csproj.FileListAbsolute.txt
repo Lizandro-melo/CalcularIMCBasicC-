@@ -1,0 +1,15 @@
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/bin/Debug/net6.0/CursoCSharp
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/bin/Debug/net6.0/CursoCSharp.deps.json
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/bin/Debug/net6.0/CursoCSharp.runtimeconfig.json
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/bin/Debug/net6.0/CursoCSharp.dll
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/bin/Debug/net6.0/CursoCSharp.pdb
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.AssemblyReference.cache
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/CursoCSharp.AssemblyInfoInputs.cache
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/CursoCSharp.AssemblyInfo.cs
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/CursoCSharp.dll
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/refint/CursoCSharp.dll
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/CursoCSharp.pdb
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/CursoCSharp.genruntimeconfig.cache
+/Users/lizandromelo/Documents/GitHub/CursoCSharp/obj/Debug/net6.0/ref/CursoCSharp.dll
