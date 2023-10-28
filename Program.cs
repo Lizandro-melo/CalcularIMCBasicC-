@@ -48,12 +48,9 @@ byte obesidade = 30;
 byte obesidadeExtrema = 35;
 
 Console.Write("Digite seu peso: ");
-string pesoString = Console.ReadLine();
+float peso = float.Parse(Console.ReadLine());
 Console.Write("Digite sua altura: ");
-string alturaString = Console.ReadLine();
-
-float peso = float.Parse(pesoString);
-float altura = float.Parse(alturaString);
+float altura = float.Parse(Console.ReadLine());
 
 float IMCAtual = (float)Math.Round(peso / (altura * altura), 2);
 byte IMCIdeal = 22;
